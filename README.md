@@ -4,14 +4,28 @@ web3技术路线
 参考[hardhat-boilerplate](https://github.com/NomicFoundation/hardhat-boilerplate)
 项目
 
+# git
+- [git 基本操作整理](https://juejin.cn/post/7098675784306393125)
 # 前端
 ## javascript
+- 匿名函数
+- 回调函数
+- 异步代码
+  - promise
+  - async、await
 ## node.js
+- [手把手小白入門Node.js](https://juejin.cn/post/7090181915562475527)
+- [node.js教你写一个web服务器](https://juejin.cn/post/7092006570531241998)
+- nodejs是运行环境，不是新的语言
+- nodejs包含内置模块（fs、path等），第三方模块（通过npm安装）
+- nodejs提供了javascript语言模块化的工具-->require
 ### npm
-npm是包管理工具，全称nodejs package manage。主要是了解使用npm管理的项目目录以及npm、npx、cnpm的使用。
+- npm是包管理工具，全称nodejs package manage。
+- 主要是了解使用npm管理的项目目录以及npm、npx、cnpm的使用。
 - [什么是 npm —— 写给初学者的编程教程](https://www.freecodecamp.org/chinese/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/)
 - [全网最全的npm小白教程](https://juejin.cn/post/7091142503478329358)
 - [package.json文件](https://javascript.ruanyifeng.com/nodejs/packagejson.html)
+- [练习题](https://ks.wjx.top/vj/ro3Rx5R.aspx)
 ## ethers.js
 ##
 # 后端
