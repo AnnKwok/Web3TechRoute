@@ -4,7 +4,7 @@
 - [Web3TechRoute](#web3techroute)
 - [git](#git)
 - [前端](#前端)
-  - [javascript](#javascript)
+  - [JavaScript](#javascript)
   - [node.js](#nodejs)
     - [npm](#npm)
   - [ethers.js](#ethersjs)
@@ -27,20 +27,15 @@
 # git
 - [git 基本操作整理](https://juejin.cn/post/7098675784306393125)
 # 前端
-## javascript
+## [JavaScript](JavaScript.md)
 - [JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
-- 匿名函数
-- 回调函数
-- 异步代码
-  - promise
-  - async、await
 ## node.js
-- [手把手小白入門Node.js](https://juejin.cn/post/7090181915562475527)
-- [node.js教你写一个web服务器](https://juejin.cn/post/7092006570531241998)
 - nodejs是运行环境，不是新的语言
 - nodejs包含内置模块（fs、path等），第三方模块（通过npm安装）
 - nodejs提供了javascript语言模块化的工具-->require
+- [手把手小白入門Node.js](https://juejin.cn/post/7090181915562475527)
+- [node.js教你写一个web服务器](https://juejin.cn/post/7092006570531241998)
 ### npm
 - npm是包管理工具，全称nodejs package manage。
 - 主要是了解使用npm管理的项目目录以及npm、npx、cnpm的使用。
@@ -59,7 +54,7 @@
 - `⭐`[使用 Mocha 进行自动化测试](https://zh.javascript.info/testing-mocha#kai-fa-liu-cheng)
 - [remix文档：使用 Chai 和 Mocha 测试](https://remix-ide.readthedocs.io/zh_CN/latest/testing_using_Chai_&_Mocha.html)
 ## chai
-- 断言库
+- 断言库，断言本身支持多个语法assert、expect
 # 部署
 ## hardhat
 - 开发环境、测试、部署工具
