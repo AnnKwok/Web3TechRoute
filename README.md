@@ -8,11 +8,11 @@
   - [node.js](#nodejs)
     - [npm](#npm)
   - [ethers.js](#ethersjs)
-  - [Mocha](#mocha)
-  - [chai](#chai)
-  - [](#)
 - [后端](#后端)
   - [solidity](#solidity)
+- [测试](#测试)
+  - [Mocha](#mocha)
+  - [chai](#chai)
 - [部署](#部署)
   - [hardhat](#hardhat)
 - [工具](#工具)
@@ -49,18 +49,20 @@
 - [package.json文件](https://javascript.ruanyifeng.com/nodejs/packagejson.html)
 - [练习题](https://ks.wjx.top/vj/ro3Rx5R.aspx)
 ## ethers.js
+# 后端
+## solidity
+# 测试
 ## Mocha
 - 测试框架，一般和chai一起使用
 - [测试框架 Mocha 实例教程
 ](https://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
-- [使用 Mocha 进行自动化测试](https://zh.javascript.info/testing-mocha#kai-fa-liu-cheng)
+- `⭐`[使用 Mocha 进行自动化测试](https://zh.javascript.info/testing-mocha#kai-fa-liu-cheng)
+- [remix文档：使用 Chai 和 Mocha 测试](https://remix-ide.readthedocs.io/zh_CN/latest/testing_using_Chai_&_Mocha.html)
 ## chai
 - 断言库
-##
-# 后端
-## solidity
 # 部署
 ## hardhat
+- 开发环境、测试、部署工具
 - 对于web3项目，数据库就是blockchain，因此本地需要搭建链，并且模拟挖矿才能进行测试。
 - hardhat简介如下:
 >Hardhat框架是专门为以太坊智能合约开发设计的**开发环境**。它提供了一套工具和实用程序，可以更轻松地在以太坊网络上编译、测试和部署智能合约。借助 Hardhat，开发人员可以使用以太坊最流行的编程语言 Solidity 编写智能合约，并利用自动合约测试、合约调试等高级功能，以及与 VSCode 和 Truffle 等流行开发工具的集成。
@@ -78,7 +80,9 @@
 
 # 工具
 ## remix
-- 开发工具，提供编译、部署功能
+- 开发工具，提供编译、测试、部署功能
+- `⭐`[remix中文文档](https://remix-ide.readthedocs.io/zh_CN/latest/index.html)
+  - 提供和hardhat整合手册
 ## [hardhat](hardhat.md)
 - 测试、部署智能合约
 - [hardhat中文文档](https://learnblockchain.cn/docs/hardhat/getting-started/)
