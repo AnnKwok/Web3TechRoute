@@ -43,7 +43,8 @@
 - [全网最全的npm小白教程](https://juejin.cn/post/7091142503478329358)
 - [package.json文件](https://javascript.ruanyifeng.com/nodejs/packagejson.html)
 - [练习题](https://ks.wjx.top/vj/ro3Rx5R.aspx)
-## ethers.js
+## [ethers.js](ethers.js.md)
+
 # 后端
 ## solidity
 # 测试

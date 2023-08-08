@@ -48,6 +48,7 @@ $remote_addr:用户的真实IP，即客户端IP。
 
 }
 ```
+**X-Forwarded-For存储了客户端真实ip，X-Real-IP不是客户端ip是nginx服务器ip**
 
 
 # 动静分离
