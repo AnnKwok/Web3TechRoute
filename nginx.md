@@ -1,6 +1,7 @@
 
 # 教程
-- [nginx一小时入门](https://www.yuque.com/wukong-zorrm/cql6cz/uoz0cq)
+- [nginx一小时入门-文档](https://www.yuque.com/wukong-zorrm/cql6cz/uoz0cq)
+- [nginx一小时入门-视频](https://www.bilibili.com/video/BV1rG4y1e7BQ?p=1)
 # nginx三大功能
 - 反向代理
 - 动静分离
